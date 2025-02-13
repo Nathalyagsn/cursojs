@@ -1,0 +1,15 @@
+body {
+    background-color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;
+    font-size: 60px;
+}
+
+div#area {
+    background: lightblue;
+    color: blueviolet;
+    width: 200px;
+    height: 200px;
+    line-height: 200px;
+    text-align: center;
+}
